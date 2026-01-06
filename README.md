@@ -32,3 +32,7 @@ A slim, wearable clip-on device that passively listens for Portuguese speech and
 
 ## Status
 Early-stage product and system design prototype.
+
+> This repository documents a design and system architecture project.
+> It does not contain production code.
+
